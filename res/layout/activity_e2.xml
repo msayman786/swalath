@@ -1,0 +1,49 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text=".أعوذ بالله من الشيطان الرجيم
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ﴿١﴾ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ﴿٢﴾ الرَّحْمَٰنِ الرَّحِيمِ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ﴿٧﴾." />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A'uzu bil-lahi minash Shayta-nir-rajeem.Al-Faatiha,Bismillah hir-Rahma nir-Raheem,Alhamdul lil-lahi rab-bil 'alameen
+        
+Ar rahma nir-raheem
+Maliki yawmid-deen
+Iyyaka na'budu wa iyyaka nasta'een
+Ihdinas siratal mustaqeem
+Siratal Lazeena an'amta 'alayhim
+Ghai-ril maghdubi 'alayhim
+Walad dal-leen. Ameen" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I seek Allah's protection from Satan who is accursed.
+Al-Faatiha
+In the name of Allah, the most Kind and the most Merciful.Praise is only for Allah, Lord of the Universe.
+The most Kind, the most Merciful.
+The master of the Day of Judgement.
+You alone we worship and to you alone we pray for help.
+Show us the straight way,
+The way of those whom you have blessed.
+Who have not deserved your anger,
+Nor gone astray." />
+
+</LinearLayout></ScrollView>

@@ -1,0 +1,31 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="التحيات المباركات الصلوات الطيبات لله. السلام عليك أيها النبي ورحمة الله وبركاته، السلام علينا وعلى عباد الله الصالحين، أشهد أن لا إله إلا الله وأن محمدا رسول الله." />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="അത്തഹിയ്യാത്തുല്‍ മുബാറക്കാത്തു സ്സ്വലവാതു ത്ത്വയ്യിബാതു ലില്ലാഹ്. അസ്സലാമു അലൈക അയ്യുഹന്നബിയ്യു വറഹ്മതുല്ലാഹി വബറകാതുഹു അസ്സലാമു അലൈനാ വ‌അലാ ഇബാദില്ലാഹിസ്സ്വാലിഹീന്‍. അശ്‌ഹദു അല്ലാഇലാഹ ഇല്ലല്ലാഹു വ‌അശ്‌ഹദു അന്ന മുഹമ്മദര്‍റസൂലുല്ലാഹ്. " />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="അനുഗ്രഹീതമായ എല്ലാകാണിക്കകളും ഉല്‍കൃഷ്ടങ്ങളായ എല്ലാ അനുഗ്രഹങ്ങളും അല്ലാഹുവിനാകുന്നു. പ്രവാചകന്‌ അല്ലാഹുവിന്റെ രക്ഷയും കാരുണ്യവും ബര്‍ക്കത്തുകളും ഉണ്ടാക്കട്ടെ. ഞങ്ങളിലും അല്ലാഹുവിന്റെ നല്ലവരായ ദാസന്മാരിലും അവന്റെ രക്ഷ ഉണ്ടാകുമാറാകട്ടെ. ആരാധനക്കര്‍ഹന്‍ അല്ലാഹുവല്ലാതെ മറ്റാരുമില്ലെന്ന് ഞാന്‍ സാക്ഷ്യം വഹിക്കുന്നു. നിശ്ചയം, മുഹമ്മദ് നബി(സ) അല്ലാഹുവിന്റെ ദൂതനാണെന്ന് ഞാന്‍ സാക്ഷ്യം വഹിക്കുന്നു. " />
+
+</LinearLayout></ScrollView>

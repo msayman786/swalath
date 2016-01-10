@@ -1,0 +1,40 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+        <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      
+        android:text="وجهت وجهي للذي فطر السموات والارض حنيفا مسلما، وما أنا من المشركين .إن صلاتي ونسكي ومحياي ومماتي لله رب العالمين، لا شريك له، وبذلك أمرت، وأنا من المسلمين.
+" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+       
+        android:text="വജ്ജഹ്‌തു വജ്‌ഹിയ ലില്ലദീ ഫഥറസ്സമാവാത്തി വല്‍ അ‌ര്‍ള ഹനീഫന്‍ മുസ്ലിമന്‍ വമാ അന മിനല്‍ മുശ്‌രിക്കീന്‍. ഇന്ന സ്വലാത്തീ വ നുസുക്കീ വ മഹ്‌യായ വ മമാത്തീ ലില്ലാഹി റബ്ബില്‍ ആലമീന്‍. ലാ ശരീക്ക ലഹു വബിദാലിക്ക ഉമിര്‍ത്തു വ അന മിനല്‍ മുസ്ലിമീന്‍." />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+        android:layout_below="@+id/textView1"
+        android:text="അനുസരണശാലിയും ഏകാഗ്രചിത്തനും ആയിക്കൊണ്ട് എന്റെ മുഖത്തെ ആകാശങ്ങളും ഭൂമിയും സൃഷ്ടിച്ച അല്ലാഹുവിങ്കലേക്ക് ഞാന്‍ തിരിച്ചിരിക്കുന്നു. ഞാന്‍ അല്ലാഹുവോട് പങ്ക് ചേര്‍ക്കുന്നവരുടെ കൂട്ടത്തില്‍ പെട്ടവനല്ല. എന്റെ നിസ്ക്കാരവും മറ്റു ആരാധനാ കര്‍മ്മങ്ങളും എന്റെ ജീവിതവും മരണവും ലോകരക്ഷിതാവായ അല്ലാഹുവിനു വേണ്ടിയുള്ളതാണ്‌. അവന്‌ ഒരു പങ്കുകാരനുമില്ല. ഈ നയം അനുവര്‍ത്തിക്കാനാണ്‌ ഞാന്‍ അനുശാസിക്കപ്പെട്ടിരിക്കുന്നത്. ഞാന്‍ മുസ്ലിംകളില്‍ പെട്ടവന്‍ തന്നെയാണ്‌." />
+            
+        
+       
+  
+
+</RelativeLayout>  </ScrollView>

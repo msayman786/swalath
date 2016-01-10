@@ -1,0 +1,31 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="اللهم اهدني فيمن هديت، وعافني فيمن عافيت، وتولني فيمن توليت، وبارك لي فيما أعطيت، وقني شر ما قضيت فإنك تقضي ولا يقضى عليك، وإنه لا يذل من واليت ولا يعز من عاديت، تباركت ربنا وتعاليت، فلك الحمد على ما قضيت، أستغفرك وأتوب إليك" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="അല്ലാഹുമ്മഹ്‌ദിനീ ഫീമന്‍ ഹദൈത്, വആഫിനീ ഫീമന്‍ ആഫൈത്, വതവല്ലനീ ഫീമന്‍ തവല്ലൈത്, വബാരിക് ലീ ഫീമാ അ‌അ്‌ഥൈത്, വഖിനീ ശര്‍‌റ മാ ഖളൈത്, ഫ‌ഇന്നക്ക തഖ്ലീ വലാ യുഖ്ലാ അലൈക്, വ‌ഇന്നഹു ലാ യദില്ലു മന്‍ വാലൈത്, വലാ യ‌ഇസ്സു മന്‍ ആദൈത്, തബാറക്‌ത റബ്ബനാ വതആലൈത്, ഫലകല്‍ ഹംദു അലാ മാ ഖളൈത്, അസ്‌തഗ്ഫിറുക്ക വ അതൂബു ഇലൈക്ക്" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="അല്ലാഹുവേ, നീ നേര്‍മാര്‍ഗ്ഗം കാണിച്ചു കൊടുത്തവരുടെ കൂട്ടത്തില്‍ എനിക്കും നീ നേര്‍മാര്‍ഗ്ഗം കാണിച്ചു തരേണമേ. നീ സൗഖ്യം നല്‍കിയവരുടെ കൂട്ടത്തില്‍ എനിക്കും സൗഖ്യം നല്‍കേണമേ. നീ രക്ഷാകര്‍തൃത്വം ഏറ്റെടുത്തവരുടെ കൂട്ടത്തില്‍ എന്റെയും രക്ഷാകര്‍തൃത്വം ഏറ്റെടുക്കേണമേ. നീ നല്‍കിയതില്‍ എനിക്ക് ബര്‍ക്കത്ത് ചൊരിയേണമേ. നീ വിധിച്ചതിന്റെ തിന്മയില്‍ നിന്നും എന്നെ കാക്കേണമേ. നീയാണ്‌ വിധിക്കുന്നത്, നിനക്കെതിരെ വിധിക്കപ്പെടുകയില്ല. നീ രക്ഷാകര്‍തൃത്വം ഏറ്റെടുത്തവര്‍ നിന്ദ്യരാവുകയില്ല. നിന്റെ ശത്രുത നേടിയവര്‍ വിജയിക്കുകയുമില്ല. ഞങ്ങളുടെ നാഥാ, നീ ഉന്നതനും അനുഗ്രഹീതനുമായിരിക്കുന്നു. നീ വിധിച്ചവയുടെ പേരില്‍ നിനക്കു സ്തുതി. നിന്നോട് ഞാന്‍ പൊറുക്കലിനെ തേടുകയും നിന്നിലേക്ക് ഖേദിച്ച് മടങ്ങുകയും ചെയ്യുന്നു. " />
+
+</LinearLayout></ScrollView>

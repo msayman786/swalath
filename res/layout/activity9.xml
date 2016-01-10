@@ -1,0 +1,31 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="اللهم صل على محمد وعلى آل محمد، كما صليت على إبراهيم وعلى آل إبراهيم، وبارك على محمد وعلى آل محمد، كما باركت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد." />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="അല്ലാഹുമ്മ സ്വല്ലി അലാ മുഹമ്മദിന്‍ വ അലാ ആലി മുഹമ്മദിന്‍ കമാ സ്വല്ലൈത്ത അലാ ഇബ്റാഹീമ വ അലാ ആലി ഇബ്റാഹീമ വ ബാരിക് മുഹമ്മദിന്‍ വ അലാ ആലി മുഹമ്മദിന്‍ കമാ ബാറക്‌ത്ത അലാ ഇബ്റാഹീമ വ അലാ ആലി ഇബ്റാഹീമ ഫില്‍ ആലമീന ഇന്നക്ക ഹമീദുന്‍ മജീദ്." />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="അല്ലാഹുവേ, ഇബ്റാഹീം നബി(അ) യുടെയും കുടുംബത്തിന്റെയും മേല്‍ നീ അനുഗ്രഹം ചൊരിഞ്ഞതുപോലെ മുഹമ്മദ് നബി(സ)യുടെയും കുടുംബത്തിന്റെയും മേല്‍ നീ അനുഗ്രഹം ചൊരിയേണമേ. ഇബ്റാഹീം നബി(അ) ക്കും കുടുംബത്തിനും നീ ശ്രേയസ്സ് നല്‍കിയതുപോലെ മുഹമ്മദ് നബി(സ)ക്കും കുടുംബത്തിനും നീ ശ്രേയസ്സ് നല്‍കേണമേ. തീര്‍ച്ചയായും നീ സ്തുതിക്കപ്പെട്ടവനും മഹത്വമുടയവനും തന്നെയാണ്‌." />
+
+</LinearLayout></ScrollView>

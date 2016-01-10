@@ -1,0 +1,100 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+ 
+
+        <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClicked"
+        android:text="ദുആഉല്‍ ഇഫ്തിതാഹ്" />
+       
+       <Button
+        android:id="@+id/button2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+        android:text="ഫാതിഹ" />
+
+       <Button
+           android:id="@+id/button3"
+           android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+        android:text="റുകൂഅ്" />
+
+       <Button
+           android:id="@+id/button4"
+           android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+           android:text="ഇഅ്തിദാല്‍" />
+
+       <Button
+           android:id="@+id/button5"
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+           android:text="ഇഅ്തിദാല്‍ ശേഷം" />
+
+       <Button
+           android:id="@+id/button6"
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+           android:text="സുജൂദ്" />
+
+       <Button
+           android:id="@+id/button7"
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+           android:text="സുജൂദിന്റെ ഇടയില്‍ ഇരുത്തം" />
+
+       <Button
+           android:id="@+id/button8"
+             android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+           android:text="അത്തഹിയ്യാത്ത്" />
+
+      
+
+       <Button
+           android:id="@+id/button9"
+             android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+           android:text="നബിയുടെ പേരിലുള്ള സ്വലാത്ത് " />
+       <Button
+           android:id="@+id/button10"
+             android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+           android:text="ദുആ" />
+
+
+        <Button
+           android:id="@+id/button11"
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+           android:text="ഖുനൂത്ത്" />
+        
+       <Button
+           android:id="@+id/button12"
+           android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:onClick="onClicked"
+           android:text="മയ്യിത്ത്‌ നിസ്കാരത്തിലെ ദുആ" />
+
+</LinearLayout></ScrollView>

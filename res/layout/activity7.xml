@@ -1,0 +1,31 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="رب اغفر لي، وارحمني، واجبرني، وارفعني، وارزقني، واهدني، وعافني." />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="റബ്ബിഗ്ഫിര്‍ലീ വര്‍ഹംനീ വജ്ബുര്‍നീ വര്‍സുഖ്നീ വഹ്‌ദിനീ വആഫിനീ" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="എന്റെ രക്ഷിതാവേ, എനിക്ക് പൊറുത്തു തരുകയും എന്നോട് കരുണ കാണിക്കുകയും എന്റെ പോരായ്മകള്‍ പരിഹരിക്കുകയും എന്നെ ഉയര്‍ത്തുകയും എനിക്ക് ആഹാരം നല്‍കുകയും എന്നെ സന്മാര്‍ഗ്ഗത്തിലാക്കുകയും എനിക്ക് സൗഖ്യം നല്‍കുകയും ചെയ്യേണമേ." />
+
+</LinearLayout></ScrollView>

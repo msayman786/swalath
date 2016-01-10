@@ -1,0 +1,46 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="اللهم صل على محمد وعلى آل محمد، كما صليت على إبراهيم وعلى آل إبراهيم، وبارك على محمد وعلى آل محمد، كما باركت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد." />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Allah humma sal-li 'ala Muhammadin
+wa 'ala ali Muhammadin,
+Kama sal-layta 'ala Ibraheema
+Wa'ala ali Ibraheema
+innaka Hameedum Majeed
+
+Allah humma barik 'ala Muhammadin
+wa 'ala ali Muhammadin,
+Kama barakta 'ala Ibraheema
+Wa 'ala ali Ibraheema
+innaka Hameedum Majeed." />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Oh Allah, send grace and honour on Muhammad and
+On the family and true followers of Muhammad
+just as you sent Grace and Honour on Ibrahim
+as you sent blessings on Ibrahim
+and his true followers
+Surely, you are praiseworthy, the Great." />
+
+</LinearLayout></ScrollView>

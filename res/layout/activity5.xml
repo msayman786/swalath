@@ -1,0 +1,31 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="ربنا لك الحمد مل ء السموات ومل ء الارض ومل ء ما شئت من شئ بعد" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="റബ്ബനാ ലക്കല്‍ ഹംദു മില്‍‌അസ്സമാവാത്തി വ മില്‍‌അല്‍ അര്‍ളി വ മില്‍‌അമാ ശിഅ്‌ത്ത മിന്‍ ശൈഇന്‍ ബ‌അ്‌ദഹു" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ഞങ്ങളുടെ രക്ഷിതാവേ, ആകാശങ്ങളും ഭൂമിയും നീ ഇച്ഛിച്ച മറ്റെല്ലാ വസ്തുക്കളും നിറയെ നിനക്കു സ്തുതി." />
+
+</LinearLayout></ScrollView>

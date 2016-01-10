@@ -1,0 +1,43 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="اللهم اهدني فيمن هديت، وعافني فيمن عافيت، وتولني فيمن توليت، وبارك لي فيما أعطيت، وقني شر ما قضيت فإنك تقضي ولا يقضى عليك، وإنه لا يذل من واليت ولا يعز من عاديت، تباركت ربنا وتعاليت، فلك الحمد على ما قضيت، أستغفرك وأتوب إليك" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Allah hum mahdinee feeman hadayta,
+Wa 'afinee feeman 'afayta,
+wata wal-lane feeman twal-layta
+wa barik lee feema a'taita,
+waqinee shar-ra ma qadayta,
+fa-innaka taqdee wala yuqda 'alayk,
+innahu laa Yazil-lu man walayt,
+wala ya'iz-zu man 'adaita,
+tabarakta rabbana wata 'alaita,
+nastaghfiruka wanatubu ilayka" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Oh Allah, make me among those whom You have guided,
+and make me among those whom You have saved, and make
+me among those whom You have chosen, and bless whatever
+you have given me, and protect me from the evil which you have decreed; verily, You decide the things and nobody can decide against You; and none whom You have committed to Your care shall be humiliated and none whom You have taken as an enemy shall taste glory. You are blessed, our Lord, and Exalted, we ask for Your forgiveness and turn to You" />
+
+</LinearLayout></ScrollView>

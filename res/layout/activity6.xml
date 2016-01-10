@@ -1,0 +1,31 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="سبحان ربي الاعلى وبحمده" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="സുബ്‌ഹാന റബ്ബിയല്‍ അ‌അ്‌ലാ വ ബിഹംദിഹി" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="അത്യുന്നതനായ എന്റെ നാഥനെ ഞാന്‍ സ്തുതിക്കുകയും അവന്റെ പരിശുദ്ധിയെ വാഴ്ത്തുകയും ചെയ്യുന്നു." />
+
+</LinearLayout></ScrollView>

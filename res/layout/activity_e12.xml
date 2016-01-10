@@ -1,0 +1,62 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="For male" 
+        />
+	
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="اللَّهُـمَّ اغْفِـرْ لَهُ ، وَارْحَمْـهُ ، وَعَافِهِ ، وَاعْفُ عَنْـهُ ، وَأَكْـرِمْ نُزُلَـهُ ، وَوَسِّـعْ مُدْخَـلَهُ ، وَاغْسِلْـهُ بِالْمَـاءِ وَالثَّـلْجِ وَالْبَـرَدِ ، وَنَقِّـهِ مِنَ الْخَطَـايَا كَمَا نَـقَّيْتَ الـثَّوْبَ الأَبْيَـضَ مِنَ الدَّنَـسِ،وَأَبْـدِلْهُ دَارًا خَـيْرًا مِنْ دَارِهِ ، وَأَهْلًا خَـيْرًا مِنْ أَهْلِـهِ ، وَزَوْجًا خَـيْرًا مِنْ زَوْجِهِ ، وَأَدْخِـلْهُ الْجَـنَّةَ ، وَأَعِـذْهُ مِنْ عَذَابِ الْقَـبْرِ وَعَذَابِ النَّـارِ" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="allaa-humma-ghfir lahu, war-ḥamhu, wa ‛aafihi, wa‛fu ‛anhu, w’akrim nuzulahu, wa was-si‛ mudkhalahu, wagh-silhu bil-maa’i wath-thalji wal-barad, wa naq-qihi mi-nal-kha-ṭaayaa kamaa naq-qayt-ath-thawb-al-’abyaḍa mi-nad-danas,
+
+wa abdilhu daa-ran khayran min daarihi, wa ahlan khayran min ahlihi, wa zawjan khayran min zawjihi, wa ad-khilhul-jan-nata, wa a‛idh-hu min ‛adhaabil-qabri wa ‛adhaabin-naar" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="For Female" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="اللَّهُـمَّ اغْفِـرْ لَهَا ، وَارْحَمْهَا ، وَعَافِهَا، وَاعْفُ عَنْـهَا ، وَأَكْـرِمْ نُزُلَـهَا ، وَوَسِّـعْ مُدْخَـلَهَا ، وَاغْسِلْـهَا بِالْمَـاءِ وَالثَّـلْجِ وَالْبَـرَدِ ، وَنَقِّـهَا مِنَ الْخَطَـايَا كَمَا نَـقَّيْتَ الـثَّوْبَ الأَبْيَـضَ مِنَ الدَّنَـسِ ،وَأَبْـدِلْهَا دَارًا خَـيْرًا مِنْ دَارِهَا ، وَأَهْلًا خَـيْرًا مِنْ أَهْلِـهَا ، وَزَوْجًا خَـيْرًا مِنْ زَوْجِهَا، وَأَدْخِـلْهَا الْجَـنَّةَ ، وَأَعِـذْهَا مِنْ عَذَابِ الْقَـبْرِ وَعَذَابِ النَّـارِ" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="allaa-humma-ghfir laha, war-ḥamha, wa ‛aafiha, wa‛fu ‛anha, wa ’akrim nuzulaha, wa was-si‛ mudkhalaha, wagh-silha bil-maa’i wath-thalji wal-barad, wa naq-qiha mi-nal-kha-ṭaayaa kamaa naq-qayt-ath-thawb-al-’abyaḍa mi-nad-danas,
+
+wa abdilha daaran khayran min daariha, wa ahlan khayran min ahliha, wa zawjan khayran min zawjiha, wa ad-khilhal-jan-nata, wa a‛idh-haa min ‛adhaabil-qabri wa ‛adhaabin-naar" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O Allah, forgive and have mercy upon him/her, excuse him/her and pardon him/her, and make honourable his/her reception. Expand his/her grave, and cleanse him/her with water, snow and ice, and purify him/her of sin as a white robe is purified of filth.
+
+And exchange his/her home for a better home, and his/her family for a better family, and his/her spouse for a better spouse. Admit him/her into the Garden, protect him/her from the punishment of the grave and the torment of the Fire." />
+
+</LinearLayout></ScrollView>

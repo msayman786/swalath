@@ -1,0 +1,31 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="اللهم اغفر لي ما قدمت وما أخرت، وما أسررت وما أعلنت، وما أسرفت، وما أنت أعلم به مني.إنك أنت المقدم وأنت المؤخر، لا إله إلا أنت للهم إني أعوذ بك من عذاب القبر، ومن عذاب النار، ومن فتنة المحيا والممات، ومن فتنة المسيح الدجال" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Allahummagphirlee maa khaddhamtthu vamaa akhkhartthu vamaa asrartthu vamaa aa്lantthu vamaa asraphtthu vamaa anttha aa്lamu bihi minnee innakka anthalu mukhaddhimu va anthalu muakhkhiru laa ilaaha illaa anttha allaahumma innee aoodu bikka minu adaabilu khabri va minu adaabinnaari va minu phithnatthilu mahyaa valu mamaatthi va minu phithnatthilu maseehiddhajjaal" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Oh God . Grant me forgiveness for whatever ( sins ) which I did earlier and the later, which I will hide and that I seem at least as well as whatever act or extreme vanity which I do thou any more to know about it from my own . You are mighty before God and the almighty end . There is no God but Thee alone.O Allah! I seek refuge with you from the punishment in the grave and from the punishment in the Hell fire and from the afflictions of life and death, and the afflictions of Al-Masih Ad-Dajjal." />
+
+</LinearLayout></ScrollView>

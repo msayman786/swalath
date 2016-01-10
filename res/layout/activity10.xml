@@ -1,0 +1,31 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text="اللهم اغفر لي ما قدمت وما أخرت، وما أسررت وما أعلنت، وما أسرفت، وما أنت أعلم به مني.إنك أنت المقدم وأنت المؤخر، لا إله إلا أنت للهم إني أعوذ بك من عذاب القبر، ومن عذاب النار، ومن فتنة المحيا والممات، ومن فتنة المسيح الدجال" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="അല്ലഹുമ്മഗ്‌ഫിര്‍ലീ മാ ഖദ്ദംത്തു വമാ അഖ്ഖര്‍ത്തു വമാ അസ്‌റര്‍ത്തു വമാ അ‌അ്‌ല‌ന്‍‌ത്തു വമാ അസ്‌റഫ്ത്തു വമാ അന്‍‌ത്ത അ‌അ്‌ലമു ബിഹി മിന്നീ ഇന്നക്ക അന്‍‌തല്‍ മുഖദ്ദിമു വ അന്‍‌തല്‍ മു‌അഖ്ഖിറു ലാ ഇലാഹ ഇല്ലാ അന്‍‌ത്ത അല്ലാഹുമ്മ ഇന്നീ അ‌ഊദു ബിക്ക മിന്‍ അദാബില്‍ ഖബ്‌രി വ മിന്‍ അദാബിന്നാരി വ മിന്‍ ഫിത്‌നത്തില്‍ മഹ്‌യാ വല്‍ മമാത്തി വ മിന്‍ ഫിത്‌നത്തില്‍ മസീഹിദ്ദജ്ജാല്‍" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="അല്ലാഹുവേ, ഞാന്‍ മുന്തിച്ചും പിന്തിച്ചും രഹസ്യമായും പരസ്യമായും അതിരു വിട്ടും ചെയ്തതും, എന്നേക്കാള്‍ കൂടുതലായി നിനക്കറിയാവുന്നതുമായ എല്ലാ പാപങ്ങളും എനിക്കു നീ പൊറുത്ത് തരേണമേ. തീര്‍ച്ചയായും നീയാണ്‌ മുന്തിക്കുന്നവനും പിന്തിക്കുന്നവനും. നീയല്ലാതെ ഒരു ആരാധ്യനും ഇല്ല. അല്ലാഹുവേ, ഖബ്‌ര്‍ ശിക്ഷയില്‍ നിന്നും നരക ശിക്ഷയില്‍ നിന്നും ജീവിതത്തിന്റെയും മരണത്തിന്റെയും കുഴപ്പങ്ങളില്‍ നിന്നും, ശപിക്കപ്പെട്ട പിശാചിന്റെ കുഴപ്പത്തില്‍ നിന്നും നിന്നോട് ഞാന്‍ രക്ഷ തേടുന്നു." />
+
+</LinearLayout></ScrollView>

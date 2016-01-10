@@ -1,0 +1,40 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+        <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      
+        android:text="وجهت وجهي للذي فطر السموات والارض حنيفا مسلما، وما أنا من المشركين .إن صلاتي ونسكي ومحياي ومماتي لله رب العالمين، لا شريك له، وبذلك أمرت، وأنا من المسلمين" />
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+       
+        android:text="Vajjahthu Vajhiya lillazee fathwara ssamaavathi val Arlla haneefan musliman vamaa ana minal mushrikeen, Inna swalathi vanusukee vamahyaaya vamamaathi lillahi rabbil hwalameen Laa Shareeka lahu vabizaalika umirthu va ana avvalul muslimeen" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+        android:layout_below="@+id/textView1"
+        android:text="I have turned my face sincerely towards He who has brought forth the heavens and the Earth and I am not of those who associate (others with Allaah). Indeed my prayer, my sacrifice, my life and my death are for Allaah, Lord of the worlds, no partner has He, with this I am commanded and I am of the Muslims." />
+            
+        
+       
+  
+
+</RelativeLayout>  </ScrollView>
+
+   

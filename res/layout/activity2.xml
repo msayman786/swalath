@@ -1,0 +1,35 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:text=".أعوذ بالله من الشيطان الرجيم
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ﴿١﴾ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ﴿٢﴾ الرَّحْمَٰنِ الرَّحِيمِ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ﴿٧﴾." />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="അഊദു ബില്ലാഹി മിനശ്ശൈഥാനിര്‍‌റജീം. ബിസ്മില്ലാഹിര്‍‌റഹ്മാനിര്‍‌റഹീം, അല്‍ ഹംദു ലില്ലാഹി റബ്ബില്‍ ആലമീന്‍, അര്‍‌റഹ്മാനിര്‍‌റഹീം, മാലികി യൗമിദ്ദീന്‍, ഇയ്യാക്ക ന‌അ്‌ബുദു വ ഇയ്യാക്കനസ്‌ത്ത‌ഈന്‍, ഇഹ്‌ദിനസ്സ്വിറാഥല്‍ മുസ്‌ത്തഖീം, സ്വിറാഥല്ലദീന അന്‍‌അംത്ത അ ലൈഹിം ഗ്വൈരില്‍ മഗ്വ്‌ളൂബി അലൈഹിം വലള്ളാല്ലീന്‍, ആമീന്‍." />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ശപികപെട്ട പിശാചില്‍ നിന്നും ഞാന്‍ അല്ല്‍ഹുവോട് രക്ഷ തേടുന്നു.Surah No:1
+Al-Faatiha
+-
+പരമകാരുണികനും കരുണാനിധിയുമായ അല്ലാഹുവിന്റെ നാമത്തില്‍ , സ്തുതി സര്‍വ്വലോക പരിപാലകനായ അല്ലാഹുവിന്നാകുന്നു. പരമകാരുണികനും കരുണാനിധിയും. പ്രതിഫല ദിവസത്തിന്റെ ഉടമസ്ഥന്‍. നിന്നെ മാത്രം ഞങ്ങള്‍ ആരാധിക്കുന്നു. നിന്നോട് മാത്രം ഞങ്ങള്‍ സഹായം തേടുന്നു. ഞങ്ങളെ നീ നേര്‍മാര്‍ഗത്തില്‍ ചേര്‍ക്കേണമേ. നീ അനുഗ്രഹിച്ചവരുടെ മാര്‍ഗത്തില്‍ . കോപത്തിന്ന് ഇരയായവരുടെ മാര്‍ഗത്തിലല്ല. പിഴച്ചുപോയവരുടെ മാര്‍ഗത്തിലുമല്ല. ഞങ്ങളുടെ പ്രാര്‍ത്ഥനക്ക് ഉത്തരം ചെയ്യേണമേ." />
+
+</LinearLayout></ScrollView>
